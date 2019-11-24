@@ -1,0 +1,16 @@
+.sq-title{
+    color: #347aeb;
+}
+
+.title{
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    overflow: hidden;
+}
+
+.sq-title-required{
+    color: #eb343d;
+}
